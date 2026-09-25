@@ -63,7 +63,7 @@ const countdownTimer = setInterval(function() {
         (difference / 1000) % 60
     );
 
-s
+
     document.getElementById("countdown").textContent =
         days + " Days " +
         hours + " Hours " +
